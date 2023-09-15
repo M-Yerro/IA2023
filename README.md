@@ -6,7 +6,11 @@ Se irá actualizando a medida que avancemos en la cursada.
 
 
 Incluye:
+
     -2 Notebooks introductorios a Python (crash course y librerías estándar)
+    
     -Clustering (K-means + K-means sklearn, Método del codo y Silhouette, Fuzzy C-Means, y snippets de visualización de datos -en matplotlib y seaborn-)
+    
     -Fuzzy Inference Systems (2 notebooks. El primero sobre Mamdani -scikit-fuzzy- y el segundo Sugeno -+clustering sustractivo-)
+    
     -Optimización (3 notebooks de Algoritmos Genéticos. 1-versión minimalista, 2-PyGad para funciones, 3-PyGad para imágenes)
